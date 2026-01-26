@@ -1,4 +1,4 @@
-# 🏛️ Political Sentiment Analysis on Social MEdia
+# 🏛️ Political Sentiment Analysis on Social Media
 
 A comparative study of machine learning and deep learning approaches for analyzing political sentiment across social media platforms.
 
