@@ -6,7 +6,7 @@ A comparative study of machine learning and deep learning approaches for analyzi
 
 This project addresses critical challenges in political sentiment analysis: lack of contextual understanding, domain generalizability issues, and temporal drift as political discourse evolves. I implemented and evaluated multiple architectures—from traditional machine learning to state-of-the-art transformers—to identify models that balance accuracy, generalizability, and computational efficiency for real-time political discourse monitoring.
 
-## Dataset
+## 📊 Dataset
 
 - **Source**: 9,122 political posts scraped from BlueSky (a decentralized social media platform)
 - **Collection Date**: October 10th, 2025
