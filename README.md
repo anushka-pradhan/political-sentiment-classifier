@@ -12,7 +12,7 @@ This project addresses critical challenges in political sentiment analysis: lack
 - **Collection Date**: October 10th, 2025
 - **Keywords**: Elections, legislation, world events, politicians
 - **Features**: Post text, timestamps, engagement metrics (likes, replies, reposts), author information
-- **Labels**: Three-class sentiment (Positive, Negative, Neutral)
+- **Labels**: Three-class sentiment (Positive, Negative, Neutral) labeled by ChatGPT
 - **Split**: 80-10-10 train-validation-test with stratified sampling
 
 ## Data Preprocessing Pipeline
